@@ -17,7 +17,15 @@ Due to the large size of the dataset (~1.5GB), it is not included in this GitHub
 
 However, a direct download link to the dataset (hosted externally) will be provided in the appendix of the submitted thesis.
 
-The dataset is based on the Alibaba CIKM 2019 e-commerce behavior logs.
+This project uses three files from the Alibaba CIKM 2019 e-commerce behavior dataset:
+
+user_behavior_train.csv – main user interaction log (~1.5GB)
+
+user_train.csv – user profile information
+
+item_train.csv – item metadata
+
+The dataset is shared under the CC BY-SA 4.0 license.
 
 3.How to Run
 
